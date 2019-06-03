@@ -1,0 +1,43 @@
+2019 June 03
+
+GitHub / Anaconda / Canvas
+
+"Think Like A Programmer"
+
+Python/SQL/HTML
+
+Stats
+
+Webscraping
+
+JSON data files
+
+Modelling with Tableau etc
+
+AWS
+
+
+
+	>>>
+
+
+Find data, make a story (For the business people who you are presenting to)
+
+
+
+	>>>
+
+Make a Repo on GitHub
+Upload file to Repo (Download too)
+
+>> https://github.com/Cameron-Cn/5wk_data-2019
+
+
+(In your preferred directory)
+git init
+git config --global user.name "{NAME}"
+git config --global user.email {email.com}
+
+
+
+
